@@ -24,7 +24,7 @@ export function Players() {
         <ButtonIcon icon="add" />
       </Form>
 
-      <Filter title="Time A"/>
+      <Filter title="Time A "/>
 
     </Container>
   )
